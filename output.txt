@@ -1,0 +1,59 @@
+---------------- adding elements ----------------
+Cell 0: None
+Cell 1: (5, 100) -> None
+Cell 2: (10, 900) -> None
+Cell 3: None
+Cell 4: (28, 200) -> (15, 400) -> None
+Cell 5: (20, 500) -> None
+Cell 6: (12, 700) -> (33, 600) -> None
+Cell 7: None
+Cell 8: (17, 800) -> None
+Cell 9: None
+Cell 10: None
+Cell 11: (19, 300) -> None
+Cell 12: None
+Cell 13: None
+Cell 14: None
+Cell 15: None
+---------------- removing elements ----------------
+Cell 0: None
+Cell 1: None
+Cell 2: (15, 400) -> (28, 200) -> None
+Cell 3: None
+Cell 4: (17, 800) -> None
+Cell 5: (19, 300) -> None
+Cell 6: None
+Cell 7: None
+---------------- adding elements ----------------
+Cell 0: None
+Cell 1: None
+Cell 2: None
+Cell 3: None
+Cell 4: None
+Cell 5: (10, 1000) -> (31, 1200) -> None
+Cell 6: None
+Cell 7: None
+Cell 8: (15, 400) -> (15, 1400) -> None
+Cell 9: (28, 200) -> (28, 1500) -> None
+Cell 10: None
+Cell 11: None
+Cell 12: (88, 1700) -> None
+Cell 13: None
+Cell 14: (59, 1800) -> None
+Cell 15: (4, 1300) -> None
+Cell 16: (17, 800) -> (17, 1600) -> None
+Cell 17: None
+Cell 18: None
+Cell 19: (22, 1100) -> None
+Cell 20: None
+Cell 21: None
+Cell 22: None
+Cell 23: (19, 300) -> None
+Cell 24: None
+Cell 25: None
+Cell 26: None
+Cell 27: None
+Cell 28: None
+Cell 29: None
+Cell 30: None
+Cell 31: None
